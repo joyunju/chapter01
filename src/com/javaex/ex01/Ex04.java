@@ -23,5 +23,9 @@ public class Ex04 {
 		//String은 무조건 " " 쌍따옴표 안에 작성해야함 
 		String str = "안녕하세요";
 		System.out.println(str);
+		
+		
+		
+		
 	}
 }
