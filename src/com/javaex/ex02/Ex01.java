@@ -44,13 +44,5 @@ public class Ex01 {
 		System.out.println("안녕\\하세요");
 		
 		
-		
-		
-		
-		
-		
-		
-		
-		
 	}
 }
