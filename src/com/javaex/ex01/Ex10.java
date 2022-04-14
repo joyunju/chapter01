@@ -1,4 +1,7 @@
 //논리 연산자
+//AND(&&), OR(||), NOT(!)
+// 결과는 boolean 타입인 true or false로 나옴
+
 package com.javaex.ex01;
 
 public class Ex10 {
