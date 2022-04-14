@@ -21,5 +21,6 @@ public class Ex09 {
 		System.out.println("n1 != n2 n1이랑 n2는 달라?");
 		System.out.println(n1!=n2);  //true
 		
+		
 	}
 }
