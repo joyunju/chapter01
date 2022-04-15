@@ -1,4 +1,4 @@
-//if-else if-else
+//if-else if-else 조건
 package com.javaex.ex03;
 
 import java.util.Scanner;
