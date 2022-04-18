@@ -11,11 +11,11 @@ public class Ex01 {
 		// i ++; --> 증감식 ( 탈출 조건)
 		// }
 		
-		int i =1;
+		int i = 0;
 		
 		while(i<=5) {  // 6이되면 조건식이 false이 되어 멈춤 
-			System.out.println("I like java");
-			i=i+1;
+			System.out.println("I like java" + i);
+			i++;   //i=i+1;
 		}
 		
 	}
