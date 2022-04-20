@@ -1,4 +1,5 @@
-//
+//배열의 선언과 생성
+//타입[] 변수명 = new 타입[크기]
 package com.javaex.ex05;
 
 public class Ex02 {
