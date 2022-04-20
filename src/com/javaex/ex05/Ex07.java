@@ -11,8 +11,8 @@ public class Ex07 {
 		// 두 배열의 개수가 같은가?
 		if (leftArray.length == rightArray.length) {
 			// 같다면 세부검사
-			//System.out.println("세부검사");
-			
+			// System.out.println("세부검사");
+
 			for (int i = 0; i < leftArray.length; i++) {
 
 				// != --> 값이 다르다면
