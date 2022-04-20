@@ -29,8 +29,14 @@ public class Ex03 {
 
 		System.out.println("=====for문으로 출력====");
 		// int i =0 --> nums 의 방번호가 0 부터 시작이니까
-		for (int i = 0; i < 6; i++) {
+//		for (int i = 0; i < 6; i++) {
+//			System.out.println(nums[i]);
+//		}
+
+		System.out.println("=====intArray.length====");
+		for (int i = 0; i < nums.length; i++) {
 			System.out.println(nums[i]);
 		}
+		
 	}
 }
